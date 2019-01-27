@@ -6,3 +6,7 @@ really a beginners project, with a handy test generator as a result !
 all info here 
 
 https://on7dq.blogspot.com/2019/01/a-very-simple-rf-generator.html
+
+code is for the basic version without MENU
+
+MENU version to come when I find the time to make it ! ;-)
